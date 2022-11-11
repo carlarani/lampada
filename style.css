@@ -1,25 +1,23 @@
-body{
+body {
     display: block;
     text-align: center;
+    background-color: black;
 }
 
-figure{
-    width:20vw;
+figure {
+    width: 20vw;
     display: inline-flex;
 }
 
-img{
+img {
     width: 20vw;
 }
 
-#desligar{
+#desligar {
     visibility: hidden;
 }
 
-button{
+button {
     position: absolute;
-    transform:translateX(-50%);
+    transform: translateX(-50%);
 }
-
-
-
