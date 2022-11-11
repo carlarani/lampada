@@ -1,0 +1,25 @@
+body{
+    display: block;
+    text-align: center;
+}
+
+figure{
+    width:20vw;
+    display: inline-flex;
+}
+
+img{
+    width: 20vw;
+}
+
+#desligar{
+    visibility: hidden;
+}
+
+button{
+    position: absolute;
+    transform:translateX(-50%);
+}
+
+
+
